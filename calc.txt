@@ -1,6 +1,7 @@
 class main{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     public int add(int a,int b){
         return a+b;
 =======
@@ -11,6 +12,11 @@ class main{
      public int mul(int a,int b){
           return a*b;
 >>>>>>> feature-mul
+=======
+     public int div(int a,int b){
+        return a/b;
+    } 
+>>>>>>> feature-div
     public static void main(String str){
      }
 }
