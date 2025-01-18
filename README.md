@@ -8,3 +8,5 @@ class main{
 }
 adding add functionlity
 adding sub functionality
+adding multiplication functionlaity
+
